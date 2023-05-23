@@ -1,2 +1,4 @@
 # primes
-素数を使った生態系のシミュレーション.
+
+It' necessary to define the problem reffered to here, more precisely.
+Mere automaton is rather mediocre.
